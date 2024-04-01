@@ -13,3 +13,4 @@ function returnsAnAnonymousFunction() {
         console.log(name);
     }
 }
+console.log(receivesANamedFunction);
